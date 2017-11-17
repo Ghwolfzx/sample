@@ -4,7 +4,7 @@
       <a href="{{ route('home') }}" id="logo">Sample App</a>
       <nav>
         <ul class="nav navbar-nav navbar-right">
-          <li><a herf="{{ route('help') }}">帮助</a></li>
+          <li><a href="{{ route('help') }}">帮助</a></li>
           <li><a herf="###">登录</a></li>
         </ul>
       </nav>
